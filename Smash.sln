@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smash", "Smash\Smash.csproj", "{2307C70A-6DF9-4163-9CB6-6A152CA6AF6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smash.Tests", "Smash.Tests\Smash.Tests.csproj", "{BBDFA1ED-C521-485C-9C0C-FF49B5DBE604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2307C70A-6DF9-4163-9CB6-6A152CA6AF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2307C70A-6DF9-4163-9CB6-6A152CA6AF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2307C70A-6DF9-4163-9CB6-6A152CA6AF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2307C70A-6DF9-4163-9CB6-6A152CA6AF6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBDFA1ED-C521-485C-9C0C-FF49B5DBE604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDFA1ED-C521-485C-9C0C-FF49B5DBE604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDFA1ED-C521-485C-9C0C-FF49B5DBE604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDFA1ED-C521-485C-9C0C-FF49B5DBE604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
